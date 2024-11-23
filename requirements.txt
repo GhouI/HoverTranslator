@@ -1,0 +1,12 @@
+PyQt5==5.15.9
+openai>=1.0.0
+pillow==10.0.0
+pywin32==306
+pyautogui==0.9.54
+easyocr==1.7.1
+numpy>=1.21.0
+torch>=2.2.0
+torchvision>=0.17.0
+cuda-python
+python-dotenv>=1.0.0
+customtkinter>=5.2.0
